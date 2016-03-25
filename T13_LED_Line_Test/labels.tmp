@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny13</DEVICE>
+ <WORKING_DIR>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn13def.inc</FILE>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\macro.asm</FILE>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164_macro.asm</FILE>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\init_sh164.asm</FILE>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\initial.asm</FILE>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <sBUF><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\init_sh164.asm</FILE><LINE>34</LINE></sBUF>
+  <Reset><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>41</LINE></Reset>
+  <preset><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>53</LINE></preset>
+  <start><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>57</LINE></start>
+  <DOTCONV><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>79</LINE></DOTCONV>
+  <SHIFTOUT><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>40</LINE></SHIFTOUT>
+  <BYTESO><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>62</LINE></BYTESO>
+  <REXIT><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>91</LINE></REXIT>
+  <BITOUT><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>68</LINE></BITOUT>
+  <LOO><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>74</LINE></LOO>
+  <HIO><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>77</LINE></HIO>
+  <exo><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\shift164.asm</FILE><LINE>79</LINE></exo>
+  <sr><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>93</LINE></sr>
+  <showd><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>139</LINE></showd>
+  <jb2><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>106</LINE></jb2>
+  <sr2><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>111</LINE></sr2>
+  <jb3><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>124</LINE></jb3>
+  <sr3><FILE>D:\SPS\MY_PROJECTs\AVR\SHIF_LIB\shift164.asm.1.2\AVRASM_ShiftReg_Lib\T13_LED_Line_Test\T13_prog.asm</FILE><LINE>129</LINE></sr3>
+ </LABELS>
+</ASSEMBLER_INFO>
