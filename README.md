@@ -3,7 +3,7 @@
 ASM Library for simple operation with 74HC164 shift registers on AVR
 Created by SPS :: 2012
 
-### Version: 1.2
+![](https://img.shields.io/badge/version-1.2-red)
 
 ==============================================================================
 The library consists of three files:
